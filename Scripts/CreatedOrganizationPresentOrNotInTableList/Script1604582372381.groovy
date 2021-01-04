@@ -42,7 +42,7 @@ import com.kms.katalon.core.util.KeywordUtil
 By obj = By.xpath("//table/tbody/tr/td[1]")
 
 By objTwo = By.xpath("//*[@title='Next Page']")
-
+//
 CustomKeywords.'customKeywords.commanFunctions.openBrowser'()
 
 CustomKeywords.'customKeywords.commanFunctions.logIntoBrowser'()
