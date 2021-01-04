@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>TargetLimit</name>
+   <tag></tag>
+   <elementGuidId>470ac137-5e90-46e8-86b2-244b6cd6c7ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@ng-reflect-name='maxNumberOfTargets']//input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@ng-reflect-name='maxNumberOfTargets']//input</value>
+   </webElementProperties>
+</WebElementEntity>
